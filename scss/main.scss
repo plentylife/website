@@ -4,6 +4,23 @@
   background-size: contain;
   background-position: center;
   background-origin: content-box;
+  height: 20%;
+  margin-bottom: 1%;
+}
+
+#try-it-link {
+  color: indigo;
+  a {
+    color: indigo;
+    text-decoration: underline;
+  }
+}
+
+html, body, .grid-container {
+  min-height: 100%;
+}
+html, body {
+  height: 100%;
 }
 
 @include breakpoint(medium) {
@@ -12,10 +29,16 @@
   }
 }
 
-p {
+@include breakpoint(small) {
+  #nav-menu {
+    margin-bottom: $header-margin-bottom;
+  }
+}
+
+p, li {
   font-family: 'Raleway', sans-serif;
 }
 
-h3 {
+h3, h2, h1 {
   font-family: 'Comfortaa', sans-serif;
 }
