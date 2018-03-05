@@ -12,8 +12,8 @@ and it simply means that the longer you hold money, the less you have --- negati
 grocery shopping; you buy what you need, and not for 3 months ahead, because food spoils.
 
 We aren't inventing this concept. The ancient Egyptians used this system of money with clay tablets --- this is 
-ancient stuff, well forgotten! A modern example, is a little town of Wörgl in Austria, that was booming during the 
-Great Depression. Wait, what, **booming during the Great Depression**? Yes, in desperation they introduced a local 
+ancient stuff, well forgotten! A modern example, is a little town of Wörgl in Austria, that was [booming during the 
+Great Depression][1]. Wait, what, **booming during the Great Depression**? Yes, in desperation they introduced a local 
 natural currency, and a little town of 4000 people built a reservoir, a ski jump, and a bridge. The national bank 
 shut the experiment down.
 
@@ -25,3 +25,5 @@ Negative interest rate is nothing to be afraid of. Remember, your savings are al
 That is why we created a crypto-currency based on these principles. It's a one of a kind in the crypto-currency 
 world, because **you can't buy it**. We're not interested in making a bunch of dollars from a token sale like the rest
 . We're envisioning a world beyond the dollar, and will do anything in our power to manifest it.
+
+[1]:https://en.wikipedia.org/wiki/W%C3%B6rgl#The_W%C3%B6rgl_Experiment

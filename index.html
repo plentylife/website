@@ -12,16 +12,18 @@
   <body>
   <div id="logo-header">
   </div>
-    <div class="grid-container" style="border: 1px solid black">
+    <div class="grid-container" id="content-container">
           <div class="grid-x">
             <!-- Add a Menu -->
-            <ul id="nav-menu" class="menu small-12 medium-3" data-magellan>
-              <li><a href="#first">Intro</a></li>
-              <li><a href="#second">Origins</a></li>
-              <li><a href="#second">Crypto-currency</a></li>
-              <li><a href="#third">App</a></li>
-              <li id="try-it-link"><a href="http://plenty.life/">Try it</a></li>
-            </ul>
+            <div class="small-12 medium-3" id="nav-menu-wrapper" data-sticky-container>
+              <ul id="nav-menu" class="menu sticky" data-sticky data-options="marginTop:0;" data-sticky-on="small"
+              data-anchor="content-container">
+                <li><a href="#first">Intro</a></li>
+                <li><a href="#second">Crypto-currency</a></li>
+                <li><a href="#third">App</a></li>
+                <li id="try-it-link"><a href="http://plenty.life/" target="_blank">Try it</a></li>
+              </ul>
+            </div>
 
             <!-- Add content where magellan will be linked -->
             <div class="sections cell small-12 medium-auto">
@@ -31,7 +33,8 @@
                   It has been done before. It worked.</p>
 
                 <p>We aren’t into changing the world. That’s too big a task, we’re too small a group.
-                  We work smart, not hard. We are nudging the world, and this will bring changes larger than we could have ever imagined.</p>
+                  We work smart. We are nudging the world, and this will bring changes larger than we could have ever
+                  imagined.</p>
 
                 <p>Take a pause here. Let us ask you a question: just how many global issues bother you? How many of them are based in some real, physical limitation?</p>
 
@@ -44,7 +47,7 @@
 
 
                 <p>We call these issues moronic, because unlike death and disease, there’s nothing stopping the human
-                  race from raising above.</p>
+                  race from <u>raising above</u>.</p>
               </div>
               <div id="second" data-magellan-target="second">
                 <h2>Natural money as crypto-currency</h2>
@@ -62,8 +65,8 @@
                   grocery shopping; you buy what you need, and not for 3 months ahead, because food spoils.</p>
 
                 <p>We aren&rsquo;t inventing this concept. The ancient Egyptians used this system of money with clay tablets &mdash; this is
-                  ancient stuff, well forgotten! A modern example, is a little town of Wörgl in Austria, that was booming during the
-                  Great Depression. Wait, what, <strong>booming during the Great Depression</strong>? Yes, in desperation they introduced a local
+                  ancient stuff, well forgotten! A modern example, is a little town of Wörgl in Austria, that was <a href="https://en.wikipedia.org/wiki/W%C3%B6rgl#The_W%C3%B6rgl_Experiment">booming during the
+                    Great Depression</a>. Wait, what, <strong>booming during the Great Depression</strong>? Yes, in desperation they introduced a local
                   natural currency, and a little town of 4000 people built a reservoir, a ski jump, and a bridge. The national bank
                   shut the experiment down.</p>
 
@@ -75,15 +78,27 @@
                 <p>That is why we created a crypto-currency based on these principles. It&rsquo;s a one of a kind in the crypto-currency
                   world, because <strong>you can&rsquo;t buy it</strong>. We&rsquo;re not interested in making a bunch of dollars from a token sale like the rest
                   . We&rsquo;re envisioning a world beyond the dollar, and will do anything in our power to manifest it.</p>
-                </div>
-              <div id="third" data-magellan-target="third">Third Section</div>
+              <div id="third" data-magellan-target="third">
+                <h2>The app</h2>
+                <p>There&rsquo;s another thing that makes us a unique project. We are building a <em>self-governance</em> and <em>self-organization</em>
+                  application on top of our currency, which immediately makes it useful!</p>
+
+                <p>Can you think of a better match: a crypto-currency meant to build <em>strong local communities</em>, with a tool making it
+                  possible for <em>large groups of people to organize</em> into an efficient government?</p>
+
+                <p>The app is meant for organizing a group of people at any level, from a book club to a country; the one key ingredient
+                  is that you have to meet on regular basis.</p>
+
+                <p> We have prepared a little tutorial for you to enjoy. Even though Plenty is an app, it is more &mdash; it is a technique,
+                  that can be even played as a board game.</p>
+              </div>
             </div>
           </div>
     </div>
 
-    <!--<script src="node_modules/jquery/dist/jquery.js"></script>-->
+    <script src="node_modules/jquery/dist/jquery.js"></script>
     <!--<script src="node_modules/what-input/dist/what-input.js"></script>-->
-    <!--<script src="node_modules/foundation-sites/dist/js/foundation.js"></script>-->
-    <!--<script src="js/app.js"></script>-->
+    <script src="node_modules/foundation-sites/dist/js/foundation.js"></script>
+    <script src="js/app.js"></script>
   </body>
 </html>
