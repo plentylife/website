@@ -18,6 +18,10 @@
 
 #nav-menu {
   background-color: white;
+  a.is-active {
+    background-color: $primary-color;
+    color: white;
+  }
 }
 
 html, body {
