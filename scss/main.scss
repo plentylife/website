@@ -1,0 +1,21 @@
+#logo-header {
+  background-image: url("../etc/plenty_logo_3b_header_low_res.png");
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center;
+  background-origin: content-box;
+}
+
+@include breakpoint(medium) {
+  #nav-menu {
+    flex-direction: column;
+  }
+}
+
+p {
+  font-family: 'Raleway', sans-serif;
+}
+
+h3 {
+  font-family: 'Comfortaa', sans-serif;
+}
