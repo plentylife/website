@@ -1,4 +1,4 @@
-Many people have an impression that CEOs of multinational corporations are inherently evil. That's not the truth.
+Many people have an impression that CEOs of multinational corporations are inherently *"evil"*. That's not the truth.
 
 CEOs are simply playing by the rules, laws, regulations and fundamentally mechanical properties of money. It's a 
 large scale game of Monopoly. You don't think your friends are evil, when you play Monopoly and they ask you for 
@@ -18,9 +18,9 @@ natural currency, and a little town of 4000 people built a reservoir, a ski jump
 shut the experiment down.
 
 Negative interest rate is nothing to be afraid of. Remember, your savings are already being drained by inflation. The
- difference is in the math, and how it affects financial calculations --- precisely the thing that Big Evil Corporations 
- do. By changing the mechanics of money --- flipping the rules of the game --- we transform "the root of all evil" 
- into the root of all good.
+ difference is in the math, and how it affects financial calculations --- precisely the thing that *"Big Evil 
+ Corporations"* do. By changing the mechanics of money --- flipping the rules of the game --- we make it profitable to keep the 
+ Amazon alive, we transform "the root of all evil" into the root of all good.
  
 That is why we created a crypto-currency based on these principles. It's a one of a kind in the crypto-currency 
 world, because **you can't buy it**. We're not interested in making a bunch of dollars from a token sale like the rest
