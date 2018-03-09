@@ -19,10 +19,15 @@
 
 #nav-menu {
   background-color: white;
+  padding-right: 1em;
   a.is-active {
     background-color: $primary-color;
     color: white;
   }
+}
+
+audio {
+  width: 100%;
 }
 
 html, body {
