@@ -26,6 +26,13 @@
   }
 }
 
+.audio {
+  padding-left: 0.3em;
+  padding-right: 0.3em;
+  border-bottom: 1px solid black;
+  border-top: 1px solid black;
+}
+
 audio {
   width: 100%;
 }
@@ -37,6 +44,10 @@ audio {
   border: 1px solid forestgreen;
   background-color: rgba(34, 139, 34, 0.10);
   color: #071c07;
+}
+
+.message-us {
+  margin-top: 2em;
 }
 
 html, body {
