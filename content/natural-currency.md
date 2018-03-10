@@ -18,7 +18,7 @@ natural currency, and a little town of 4000 people built a reservoir, a ski jump
 shut the experiment down.
 
 Negative interest rate is nothing to be afraid of. Remember, your savings are already being drained by inflation. The
- difference is in the math, and how it affects financial calculations --- precisely the thing that *"Big Evil 
+ difference is in the math, and how it [affects financial calculations][2] --- precisely the thing that *"Big Evil 
  Corporations"* do. By changing the mechanics of money --- flipping the rules of the game --- we make it profitable to keep the 
  Amazon alive, we transform "the root of all evil" into the root of all good.
  
@@ -27,3 +27,4 @@ world, because **you can't buy it**. We're not interested in making a bunch of d
 . We're envisioning a world beyond the dollar, and will do anything in our power to manifest it.
 
 [1]:https://en.wikipedia.org/wiki/W%C3%B6rgl#The_W%C3%B6rgl_Experiment
+[2]:#for-curious

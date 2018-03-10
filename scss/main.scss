@@ -27,8 +27,11 @@
 }
 
 .audio {
+  margin-top: 1.5em;
   padding-left: 0.3em;
   padding-right: 0.3em;
+  padding-top: 0.5em;
+  padding-bottom: 0.5em;
   border-bottom: 1px solid black;
   border-top: 1px solid black;
 }
@@ -46,8 +49,25 @@ audio {
   color: #071c07;
 }
 
+.curious {
+  padding: 1em;
+  margin-top: 1.5em;
+  margin-bottom: 1.5em;
+  border: 1px solid saddlebrown;
+  background-color: rgba(139, 69, 19, 0.05);
+  color: #241205;
+
+  img {
+    height: 5em;
+  }
+}
+
 .message-us {
   margin-top: 2em;
+}
+
+.equation {
+  text-align: center;
 }
 
 html, body {

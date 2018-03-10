@@ -1,10 +1,10 @@
 Hacking money to feed kids
 
-We’ve been thinking about this a very long time. It’s doable. The recipe is actually simple.
-It has been done before. It worked.
-
 We aren’t into changing the world. That’s too big a task, we’re too small a group.
 We work smart. We are *nudging* the world, and this will bring changes larger than we could have ever imagined.
+
+We’ve been thinking about this a very long time. It’s doable. The recipe is actually simple.
+It has been done before. It worked.
 
 Take a pause here. Let us ask you a question: just how many global issues bother you? How many of them are based in some real, physical limitation?
 
