@@ -8,7 +8,7 @@ Money is absolutely *fundamental to civilization*, but it is also totally *malle
 concept, born of human mind. It's not a law of nature. We can change how money works.
 
 *Natural currencies* are the answer to preventing human race from self-destructing. The technical term is demurrage, 
-and it simply means that the longer you hold money, the less you have --- negative interest. It the same as going 
+and it simply means that the longer you hold money, the less you have --- negative interest. It's the same as going 
 grocery shopping; you buy what you need, and not for 3 months ahead, because food spoils.
 
 We aren't inventing this concept. The ancient Egyptians used this system of money with clay tablets --- this is 

@@ -11,7 +11,7 @@ Take a pause here. Let us ask you a question: just how many global issues bother
 We can think of a very long list, to name a couple:
 
 - Starving kids, even in “1st” world countries (the world produces more than enough food to feed everybody) and abject poverty (how is that still a thing?)
-- Cutting down the Amazon (we’ll all suffocate) and overfishing to the point of complete depletion (when we can have fish indefinitely, if harvested sustainably) 
+- Cutting down the Amazon (we’ll all suffocate) and overfishing to the point of complete depletion 
 
 We call these issues moronic, because unlike death and disease, there’s nothing stopping the human race from raising 
 above.

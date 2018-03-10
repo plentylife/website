@@ -70,6 +70,18 @@ audio {
   text-align: center;
 }
 
+.tryit {
+  width: 100%;
+  font-size: 200%;
+  color: indigo;
+  text-align: center;
+  a {
+    color: indigo;
+    font-family: 'Comfortaa', sans-serif;
+    text-decoration: underline  ;
+  }
+}
+
 html, body {
   min-height: 100%;
   height: 100%;
