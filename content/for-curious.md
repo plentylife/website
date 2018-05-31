@@ -17,6 +17,6 @@ Canada and US). Which is the same as: $10 + $9.80 + ... + $8.20 + ... + 0.01 + .
 Is this not insane to you? How can an *Infinite* amount of dollars equal a meager $510?   
 How do you expect a corporation to preserve the Amazon? Yes, the Amazon is of *Infinite* worth, but because of inflation, financially it's not.
 
-Natural currencies flip the equation.  
+Natural currencies flip the equation. They make future money worth more than present day money.
 They make it profitable to keep the Amazon alive.
  
